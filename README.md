@@ -33,9 +33,12 @@ Para ejecutar este juego, localmente, sigue estos pasos:
    ```bash
    https://github.com/CarlosVarelaIbarra/Challenge-Amigo-secreto.git
 
+   ```
+
    ```bash
    https://github.com/CarlosVarelaIbarra/Challenge-Amigo-secreto/archive/refs/heads/main.zip
 
+   ```
 
 2. Da doble clic sobre el archivo index.html o clic derecho propiedades/abrir con y selecciona tu navegador.
 
