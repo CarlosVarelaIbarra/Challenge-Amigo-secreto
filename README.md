@@ -48,6 +48,7 @@ Para ejecutar este juego, localmente, sigue estos pasos:
 1. Teclea nombres en el campo de texto y haz clic en el botón **Añadir**.
 2. Haz clic en **Sortear amigo** para seleccionar un nombre al azar.
 3. Si quiere una nueva ronda, presiona el botón **Intenta de nuevo**.
+
 **A considerar** El historial unicamente mostrara los ganadores y el numero de sorteo de la ronda activa, al dar clic en **intenta de nuevo** se borrara ese historial.
 
 
