@@ -31,7 +31,7 @@ Para ejecutar este juego, localmente, sigue estos pasos:
 
 1. descarga el repositorio en tu equipo:
    ```bash
-   git clone 
+   git clone https://github.com/CarlosVarelaIbarra/Challenge-Amigo-secreto 
 
 2. Abre el archivo index.html en tu navegador.
 
