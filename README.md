@@ -1,17 +1,17 @@
-<h1 align="center"> # Challenge Amigo Secreto </h1>
+<h1 align="center">  Challenge Amigo Secreto </h1>
 
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
 
-<h1 align="center"> # Introducción </h1>
+<h1 align="center">  Introducción </h1>
 Es una herramienta web de entretenimiento que permite seleccionar de forma aleatoria a un ganador
 
-<h1 align="center"> ## Descripción </h1>
+<h1 align="center">  Descripción </h1>
 
 Con esta herramienta web de entretenimiento puedes sortear retos, juegos, premios u otras actividades que requieran de una selección al azar de entre varias o varios miembros, sin la intervención directa de una persona para garantizar una selección transparente y más simple, únicamente es necesario agregar de forma manual a los participantes y mediante el botón de **añadir**, además podrás sortear con límite de intentos la cantidad de integrantes de la ronda o reiniciar el sorteo, con los respectivos botones que se integran. también se permite mantener un historial de los sorteos y ganadores de la ronda activa misma que se eliminara al dar clic en **intenta de nuevo**.
 
-<h1 align="center"> ### Características </h1>
+<h1 align="center"> Características </h1>
 
 - **Agregar participantes**: Se permite agregar de forma manual nombres de participantes sin restricción de cantidad
 - **Sorteo aleatorio**: Se genera un sorteo al azar mediante un botón llamado **sortear amigo**
@@ -20,7 +20,7 @@ Con esta herramienta web de entretenimiento puedes sortear retos, juegos, premio
 
 - **Diseño sencillo y funcional**: se agregan animaciones de sombreado únicamente en botones, para mostrar la apariencia activa de los botones.
 
-<h1 align="center"> ### Instalación </h1>
+<h1 align="center"> Instalación </h1>
 
 Para ejecutar este juego, localmente, sigue estos pasos:
 
